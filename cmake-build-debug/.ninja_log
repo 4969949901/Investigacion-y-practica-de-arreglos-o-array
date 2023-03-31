@@ -1,0 +1,26 @@
+# ninja log v5
+4	572	7019461331304907	CMakeFiles/PracticaArrays.dir/ManejoArrays.cpp.obj	9594fdc893cbd548
+4	836	7019446113600142	CMakeFiles/PracticaArrays.dir/main.cpp.obj	6ca21b78e927915b
+573	796	7019461333457051	PracticaArrays.exe	b88a2623e78fb117
+5	667	7019465385596574	CMakeFiles/PracticaArrays.dir/ManejoArrays.cpp.obj	9594fdc893cbd548
+668	923	7019465388039363	PracticaArrays.exe	b88a2623e78fb117
+4	556	7019465693991231	CMakeFiles/PracticaArrays.dir/ManejoArrays.cpp.obj	9594fdc893cbd548
+557	776	7019465696087516	PracticaArrays.exe	b88a2623e78fb117
+4	771	7019466170842568	CMakeFiles/PracticaArrays.dir/ManejoArrays.cpp.obj	9594fdc893cbd548
+773	984	7019466172879354	PracticaArrays.exe	b88a2623e78fb117
+3	569	7019467153392542	CMakeFiles/PracticaArrays.dir/ManejoArrays.cpp.obj	9594fdc893cbd548
+569	790	7019467155551279	PracticaArrays.exe	b88a2623e78fb117
+3	890	7019467777211536	CMakeFiles/PracticaArrays.dir/ManejoArrays.cpp.obj	9594fdc893cbd548
+891	1147	7019467779690927	PracticaArrays.exe	b88a2623e78fb117
+4	496	7019473359781143	CMakeFiles/PracticaArrays.dir/main.cpp.obj	6ca21b78e927915b
+497	711	7019473361835216	PracticaArrays.exe	b88a2623e78fb117
+5	545	7019474446323819	CMakeFiles/PracticaArrays.dir/main.cpp.obj	6ca21b78e927915b
+546	766	7019474448420707	PracticaArrays.exe	b88a2623e78fb117
+4	562	7019474788298902	CMakeFiles/PracticaArrays.dir/main.cpp.obj	6ca21b78e927915b
+563	771	7019474790276511	PracticaArrays.exe	b88a2623e78fb117
+4	527	7019477639942922	CMakeFiles/PracticaArrays.dir/main.cpp.obj	6ca21b78e927915b
+528	746	7019477642042990	PracticaArrays.exe	b88a2623e78fb117
+4	533	7019480326415932	CMakeFiles/PracticaArrays.dir/main.cpp.obj	6ca21b78e927915b
+534	791	7019480328868211	PracticaArrays.exe	b88a2623e78fb117
+3	615	7019481882050427	CMakeFiles/PracticaArrays.dir/main.cpp.obj	6ca21b78e927915b
+616	835	7019481884094479	PracticaArrays.exe	b88a2623e78fb117
